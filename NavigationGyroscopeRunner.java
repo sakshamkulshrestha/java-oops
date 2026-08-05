@@ -6,7 +6,7 @@ class NavigationGyroscope{
         System.out.println(zAxisSpinRate);
     }
 }
-public class Topic3 {
+public class NavigationGyroscopeRunner {
     public static void main(String[] args) {
         NavigationGyroscope obj = new NavigationGyroscope();
         obj.applyTorque(10);

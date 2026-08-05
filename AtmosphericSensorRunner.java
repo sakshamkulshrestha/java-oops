@@ -15,7 +15,7 @@ class AtmosphericSensor{
 
     
 }
-public class Topic2 {
+public class AtmosphericSensorRunner {
     public static void main(String[] args) {
         AtmosphericSensor obj = new AtmosphericSensor();
         obj.targetGas = "Methane";

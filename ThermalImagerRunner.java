@@ -18,7 +18,7 @@ class ThermalImager{
     
 }
 
-public class Topic4 {
+public class ThermalImagerRunner {
     public static void main(String[] args) {
         ThermalImager obj = new ThermalImager("Ironbow", 450);
         System.out.println(obj.colorPalette);

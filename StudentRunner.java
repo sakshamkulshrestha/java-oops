@@ -17,7 +17,7 @@ class Student{
     }
     
 }
-public class Basic {
+public class StudentRunner {
     public static void main(String[] args) {
         Student s1 = new Student("Austin", 100);
         System.out.println(s1.getName());
