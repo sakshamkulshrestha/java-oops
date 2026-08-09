@@ -10,7 +10,7 @@ public class ReactorStateTester {
         ReactorStatus obj = ReactorStatus.SCRAM_TRIGGERED;
         
         if(obj == ReactorStatus.SCRAM_TRIGGERED){
-            System.out.println("EMERGENCY: Immediate coolant injection required!");
+            System.out.println("EMERGENCY: Immediate coolant injection required!, Complete it Please.");
         }
     }
 }
