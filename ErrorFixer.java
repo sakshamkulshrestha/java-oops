@@ -13,7 +13,8 @@ public class ErrorFixer {
             System.out.println("Result: " + result);
         }
         catch(Exception e){
-            System.out.println("Cant divide it by zero");
+            System.out.println("Cant divide it by zero, change the divisor");
+
         }
         
     }
