@@ -13,7 +13,7 @@ class ArchiveFolder<T> {
 
 public class CourthouseSystem {
     public static void main(String[] args) {
-        ArchiveFolder<String> documentBox = new ArchiveFolder<>("Case 99: Dismissed");
+        ArchiveFolder<String> documentBox = new ArchiveFolder<>("Case 99: Dismissed now");
         
         ArchiveFolder<Double> weaponSerialBox = new ArchiveFolder<>(500.50);
         
